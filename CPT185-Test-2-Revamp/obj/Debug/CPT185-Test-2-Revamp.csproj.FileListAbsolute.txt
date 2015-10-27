@@ -1,0 +1,9 @@
+D:\Save\School\CPT 185\CPT185-Test-2-Revamp\CPT185-Test-2-Revamp\bin\Debug\CPT185-Test-2-Revamp.exe.config
+D:\Save\School\CPT 185\CPT185-Test-2-Revamp\CPT185-Test-2-Revamp\bin\Debug\CPT185-Test-2-Revamp.exe
+D:\Save\School\CPT 185\CPT185-Test-2-Revamp\CPT185-Test-2-Revamp\bin\Debug\CPT185-Test-2-Revamp.pdb
+D:\Save\School\CPT 185\CPT185-Test-2-Revamp\CPT185-Test-2-Revamp\obj\Debug\CPT185-Test-2-Revamp.csprojResolveAssemblyReference.cache
+D:\Save\School\CPT 185\CPT185-Test-2-Revamp\CPT185-Test-2-Revamp\obj\Debug\CPT185_Test_2_Revamp.Form1.resources
+D:\Save\School\CPT 185\CPT185-Test-2-Revamp\CPT185-Test-2-Revamp\obj\Debug\CPT185_Test_2_Revamp.Properties.Resources.resources
+D:\Save\School\CPT 185\CPT185-Test-2-Revamp\CPT185-Test-2-Revamp\obj\Debug\CPT185-Test-2-Revamp.csproj.GenerateResource.Cache
+D:\Save\School\CPT 185\CPT185-Test-2-Revamp\CPT185-Test-2-Revamp\obj\Debug\CPT185-Test-2-Revamp.exe
+D:\Save\School\CPT 185\CPT185-Test-2-Revamp\CPT185-Test-2-Revamp\obj\Debug\CPT185-Test-2-Revamp.pdb
